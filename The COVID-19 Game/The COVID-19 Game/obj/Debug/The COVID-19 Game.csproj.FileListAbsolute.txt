@@ -1,0 +1,15 @@
+D:\C# Programs\Mini Projects\The COVID-19 Game\The COVID-19 Game\bin\Debug\The COVID-19 Game.exe.config
+D:\C# Programs\Mini Projects\The COVID-19 Game\The COVID-19 Game\bin\Debug\The COVID-19 Game.exe
+D:\C# Programs\Mini Projects\The COVID-19 Game\The COVID-19 Game\bin\Debug\The COVID-19 Game.pdb
+D:\C# Programs\Mini Projects\The COVID-19 Game\The COVID-19 Game\obj\Debug\The COVID-19 Game.csprojAssemblyReference.cache
+D:\C# Programs\Mini Projects\The COVID-19 Game\The COVID-19 Game\obj\Debug\MainWindow.g.cs
+D:\C# Programs\Mini Projects\The COVID-19 Game\The COVID-19 Game\obj\Debug\App.g.cs
+D:\C# Programs\Mini Projects\The COVID-19 Game\The COVID-19 Game\obj\Debug\The COVID-19 Game_MarkupCompile.cache
+D:\C# Programs\Mini Projects\The COVID-19 Game\The COVID-19 Game\obj\Debug\The COVID-19 Game_MarkupCompile.lref
+D:\C# Programs\Mini Projects\The COVID-19 Game\The COVID-19 Game\obj\Debug\MainWindow.baml
+D:\C# Programs\Mini Projects\The COVID-19 Game\The COVID-19 Game\obj\Debug\The COVID-19 Game.g.resources
+D:\C# Programs\Mini Projects\The COVID-19 Game\The COVID-19 Game\obj\Debug\The_COVID_19_Game.Properties.Resources.resources
+D:\C# Programs\Mini Projects\The COVID-19 Game\The COVID-19 Game\obj\Debug\The COVID-19 Game.csproj.GenerateResource.cache
+D:\C# Programs\Mini Projects\The COVID-19 Game\The COVID-19 Game\obj\Debug\The COVID-19 Game.exe
+D:\C# Programs\Mini Projects\The COVID-19 Game\The COVID-19 Game\obj\Debug\The COVID-19 Game.pdb
+D:\C# Programs\Mini Projects\The COVID-19 Game\The COVID-19 Game\obj\Debug\The COVID-19 Game_Content.g.cs
